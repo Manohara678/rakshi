@@ -1,1 +1,1 @@
-print(aki tulaga)
+print(aki tulaga nadir tunni)
